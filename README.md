@@ -1,2 +1,2 @@
-# datasciencecourser
+# datasciencecoursera
 Assignment_1
